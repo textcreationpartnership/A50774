@@ -1,0 +1,630 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ex-ale-tation of ale being the antient liquor of this realme· Or, A clear definition of its efficacious operation in several pates, arts and professions. Dedicated to all that love ale, and to be presented to all the inns and ale-houses in England.</title>
+            <title>Ex-ale-tation of ale, the anciant lickquor of this realme.</title>
+            <author>Mews, Peter, 1619-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50774</idno>
+            <idno type="STC">Wing M1952A</idno>
+            <idno type="STC">ESTC R214178</idno>
+            <idno type="EEBO-CITATION">99826387</idno>
+            <idno type="PROQUEST">99826387</idno>
+            <idno type="VID">30789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1764:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ex-ale-tation of ale being the antient liquor of this realme· Or, A clear definition of its efficacious operation in several pates, arts and professions. Dedicated to all that love ale, and to be presented to all the inns and ale-houses in England.</title>
+                  <title>Ex-ale-tation of ale, the anciant lickquor of this realme.</title>
+                  <author>Mews, Peter, 1619-1706.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by M.I. for F. Coles at the Lamb in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Not drunken, nor sober, but neighbour to both,".</note>
+                  <note>Caption title.</note>
+                  <note>An edition of: The ex-ale-tation of ale, the anciant lickquor of this realme.</note>
+                  <note>Attributed to the Bishop of Winchester, Peter Mews, by Wing and DNB.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ale --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:30789:1" rendition="simple:additions"/>
+            <head>The Ex-ale-tation of ALE BEING The Antient Liquor of this REALME OR, <hi>A Clear definition of its efficacious Operation in ſeveral</hi> Pates, Arts and Profeſsions.</head>
+            <head type="sub">Dedicated to all that love Ale, and to be preſented to all the Inns and Ale-Houſes in <hi>ENGLAND.</hi>
+            </head>
+            <lg>
+               <l>NOt drunken, nor ſober, but neighbour to both,</l>
+               <l>I met with a friend in <hi>Ales-bury</hi> Vale,</l>
+               <l>He ſaw by my face that I was in the caſe</l>
+               <l>to ſpeak no great harm of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Then did he me greet, and ſaid, ſince we meet</l>
+               <l>(and he put me in mind of the name of the Dale)</l>
+               <l>For <hi>Ales-bury</hi> ſake ſome pains I would take</l>
+               <l>and not bury the praiſe of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The more to procure me, then did he adjure me,</l>
+               <l>if the ale I drank laſt were happy and ſtale,</l>
+               <l>To do it its right, and ſtir up my ſprite,</l>
+               <l>and fall to commend a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Quoth I to commend it I dare not begin,</l>
+               <l>left therein my credit might happen to fail;</l>
+               <l>For many men now do count it a ſin</l>
+               <l>for once to look towards a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Yet I care not a pin, for I ſee no ſuch ſin,</l>
+               <l>nor any thing elſe my courage to quail;</l>
+               <l>For this we do find, that take it in kind,</l>
+               <l>much vertue there is in a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And I mean not the taſte, though thereby much grac't,</l>
+               <l>nor the merry go down without pull or hale,</l>
+               <l>Perſuming the throat when the ſtomach's afloate</l>
+               <l>with the fragrant ſent of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Nor yet the delight, that comes to the ſight,</l>
+               <l>to ſee how it flowers and mantles in graile;</l>
+               <l>As green as as a leek, with a ſmile in the cheek,</l>
+               <l>the true orient colour of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>But I mean the mind, and the good it doth find,</l>
+               <l>not onely the body ſo feeble and frail;</l>
+               <l>For body and ſoul may bleſs the black boul,</l>
+               <l>ſince both are beholden to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>For when heavineſs, the mind doth oppreſs,</l>
+               <l>and ſorrow and griefe the heart do aſſail,</l>
+               <l>No remedy quicker, then to take of your liquor,</l>
+               <l>and to waſh away cares with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he widdow that buried her husband of late</l>
+               <l>will ſoon have forgotten to weep and to wail,</l>
+               <l>And think every day twain til ſhe marry again,</l>
+               <l>read her but the contents of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is like a belly-blaſt to a cold heart,</l>
+               <l>and warms and engenders the ſpirits vitale,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> keep them from domage all ſp'rits owe their homage</l>
+               <l>to the ſp'rit of the buttry, a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d down to the legs this virtue doth go,</l>
+               <l>and to a bad footman is as good as a ſail,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en it fills the veins, and makes light the brains,</l>
+               <l>No Lacky ſo nimble as a Pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e naked complains not for want of a coat,</l>
+               <l>nor on the cold weather will once turne his tayle;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the way as he goes, he cuts the winde with his noſe,</l>
+               <l>ſhe be but well wrapt in a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hungry man takes no thought for his meat,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough his ſtomack would b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook a ten-peny nail;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>quite forgets hunger, and thinks on't no longer,</l>
+               <l>ſhe touch but the ſpark of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poor man will praiſe it ſo hath he good cauſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the year eates neither Partridg nor Quail,</l>
+               <l>But ſets up his reſt, and makes up his feaſt</l>
+               <l>with a cruſt of brown bread, and a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The Shepheard, the Sower, the Threſher, the Mower,</l>
+               <l>the one with his ſcithe, the other with his flaile,</l>
+               <l>Take them out by the poll, on the perill of my ſoul,</l>
+               <l>all will hold up their hands to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The black ſmith whoſe bellows all ſummer do blow</l>
+               <l>with the fire in his face ſtil, without e're a vale,</l>
+               <l>Though his throat be full dry, he will tell you no lie,</l>
+               <l>but where you may be ſure of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Who ever denies it the priſoner wil praiſe it,</l>
+               <l>that beg at the grate, and lie in the goale:</l>
+               <l>For even in their fetters, they think themſelves better,</l>
+               <l>may they get but a two-penny bla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pot of ale.</l>
+            </lg>
+            <lg>
+               <l>The begger whoſe portion is always his prayers,</l>
+               <l>not having a tatter to hang on his tayl:</l>
+               <l>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as rich in his rags, as the churle in his bags,</l>
+               <l>if he once but ſhakes hands with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>It drives his poverty clean out of mind,</l>
+               <l>forgetting his brown bread, his wallet and Mayle:</l>
+               <l>He walks in the houſe, like a ſix-footed louſe,</l>
+               <l>if he once be enricht with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And he that doth dig in the ditches all day,</l>
+               <l>and wearies himſelf quite at the plough taile,</l>
+               <l>Wil ſpeak no leſſe things, then of Queens and of Kings,</l>
+               <l>If he touch but the top of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>It is a whetſtone to a blunt wit,</l>
+               <l>and makes a ſupply where nature doth fail;</l>
+               <l>The dulleſt wit ſoon wil look quite thorow the Moon,</l>
+               <l>if his temples be wet with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Then Dick to his dearling full boldly dares ſpeak,</l>
+               <l>though before (ſilly fellow) his courage did quail;</l>
+               <l>He gives her the ſmouch, with his hand on his pouch,</l>
+               <l>if he meet by the way with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And it makes the Carter a Courtier ſtraight-way;</l>
+               <l>with rhetorical terms he wil tel his tale</l>
+               <l>With curteſies great ſtore, and his cap up before,</l>
+               <l>being ſchoold but a little with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The old man whoſe tongue waggs faſter then his teeth</l>
+               <l>(for old age by nature doth drivel and drail)</l>
+               <l>Wil frig and ſling, like a dog in a ſtring,</l>
+               <l>if he warm his cold blood with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And the good old Clark, whoſe ſight waxeth dark,</l>
+               <l>and ever he thinks the print is too ſmal;</l>
+               <l>He wil ſee every letter, and ſay ſervice better,</l>
+               <l>if he glaze but his eyes with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The cheek and the jawes, to commend it have cauſe;</l>
+               <l>for where they were late but even wan and pale:</l>
+               <l>They will get them a colour, no crimſon is fuller,</l>
+               <l>by the true die and tincture of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke her enemies, though they think themſelves wiſe,</l>
+               <l>how meagre they look, with how low a wayle;</l>
+               <l>How their cheeks do fall, without ſp'rits at all,</l>
+               <l>that alien their minds from a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And that now the grains do work in my brains,</l>
+               <l>me thinks I were able to give by retale</l>
+               <l>Commodities ſtore, a dozen, or more,</l>
+               <l>that flow to mankind from a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The Muſes would muſe, any ſhould it miſuſe,</l>
+               <l>for it makes them to ſing like a Nightingale;</l>
+               <l>With a lofty trim note, having waſhed their throat</l>
+               <l>with the Caballine ſpring of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And the Muſicion of any condition,</l>
+               <l>it will make him to reach to the top of his ſcale,</l>
+               <l>It will clear his pipes, and moyſten his lights,</l>
+               <l>If he drinke alternatim a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The Poet divine, that cannot reach wine,</l>
+               <l>becauſe that his money doth many times fail,</l>
+               <l>Will hit on the vain, to make a good ſtraign</l>
+               <l>if he be but inſpired with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>For ballads <hi>Elderton</hi> never had peer,</l>
+               <l>how went his wit in them with how merry a gale?</l>
+               <l>And with all his ſails up, and he bent at the cup</l>
+               <l>and waſhed his beard with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And the power of it ſhewes, no whit leſſe in proſe,</l>
+               <l>it will one phraſe, and ſet forth his tale,</l>
+               <l>Fill him but a boul, it will make his tongue troule,</l>
+               <l>for flowing ſpeech flowes from a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And Maſter Philoſopher, if he drink his part,</l>
+               <l>will not trifle his time in the husk or the ſhale,</l>
+               <l>But go to the kernel by the depth of his art</l>
+               <l>to be found in the bottom of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Give a ſcholer of <hi>Oxford</hi> a pot of ſixteens,</l>
+               <l>and put him to prove that an Ape hath a taile,</l>
+               <l>And ſixteen times better his wit will be ſeen</l>
+               <l>if you fetch him from <hi>Botley</hi> a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Thus it helps ſpeech and wit, and it hurts not a whit,</l>
+               <l>but rather doth further the vertues morale:</l>
+               <l>Then think it not much, if a little I touch</l>
+               <l>the good moral parts of a pot of good ale</l>
+            </lg>
+            <lg>
+               <l>To the church and religion it is a good friend;</l>
+               <l>or elſe our forefathers their wiſdom did fail,</l>
+               <l>That every mile, next to the church ſtile,</l>
+               <l>ſet a conſecrate houſe to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>But now as they ſay, beer bears all away,</l>
+               <l>the more is the pitty if right might prevail;</l>
+               <l>For with this ſame beere came up hereſies here,</l>
+               <l>the old Catholick drink is a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The churches much owe, as we all do know,</l>
+               <l>for when they be dropping and ready to fall;</l>
+               <l>By a Whitſon or a Church ale up again they ſhall go</l>
+               <l>and owe their repayring to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Truth will do it right, it bringeth truth to light,</l>
+               <l>And many bad matters it helps to reveale:</l>
+               <l>For they that will drink, will ſpeak what they think;</l>
+               <l>Tom tell-troth lies hid in a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>It is Juſtices friend, ſhe will it commend,</l>
+               <l>For all is here ſerved by meaſure and tale;</l>
+               <l>Now, true tale and good meaſure, are Juſtices treaſure,</l>
+               <l>and much to the praiſe of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And next I alledge, it is fortitudes edge,</l>
+               <l>for a very coward that ſhrinks like a ſnail,</l>
+               <l>Will ſwear, and will ſwagger and out goes his dagger,</l>
+               <l>if a be but arm'd with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Knights and Squires of degree,</l>
+               <l>that never wore corſſet nor yet ſhirt of maile,</l>
+               <l>But have fought their fights all, twixt the pot and the wal</l>
+               <l>when once they were dubbed with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And ſure it will make a man ſuddenly wiſe</l>
+               <l>yere while was ſcarſe able to tell a right tale,</l>
+               <l>It will open his jaw, he will tell you the law,</l>
+               <l>as made a right Preacher of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Or he that will make a bargain to gain</l>
+               <l>in buying or ſelling his goods forth to ſale,</l>
+               <l>Muſt not plod in the mire, but ſit by the fire,</l>
+               <l>and ſeal up his match with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>But for ſoberneſſe, needs muſt I confeſſe</l>
+               <l>the matter goes hard, and few do prevail,</l>
+               <l>Not to go too deep, but temper to keep,</l>
+               <l>ſuch is the attractive of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>But here's an amends, which will make all friends,</l>
+               <l>and never doth tend to the beſt avail,</l>
+               <l>If you take it too deep, it will make you but ſleep,</l>
+               <l>ſo comes no great hurt of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>If reeling they happen to fall to the ground,</l>
+               <l>the fall is not great, they may hold by the rail,</l>
+               <l>If into the Water they cannot be drown'd,</l>
+               <l>for that gift is given to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>If drinking about, they chance to fall out,</l>
+               <l>fear not the alar'm, though fleſh be but frail:</l>
+               <l>It will prove but ſome blowes, or at moſt a bloody noſe,</l>
+               <l>And friends again ſtraight with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And Phyſick will favour ale as it is bound</l>
+               <l>and be againſt beer both tooth and nail,</l>
+               <l>They ſend up and down, all over the town</l>
+               <l>to get for their Patients a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Their Aleberries, caudles, and poſſets each one,</l>
+               <l>and ſillabubs made at the milking pale,</l>
+               <l>Although they be many, beer comes not in any,</l>
+               <l>but all are compos'd with a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And in very deed, the hop's but a weed</l>
+               <l>brought o're againſt Law, and hereſet to ſale;</l>
+               <l>Would the Law were renew'd, and no more beer brew'd</l>
+               <l>but all good men betake them to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The Law, that wil take it under her wing,</l>
+               <l>for at every law day; or moot of the hall,</l>
+               <l>One is ſworne to ſerve our Soveraign King</l>
+               <l>in the ancient office of a Conner of Ale.</l>
+            </lg>
+            <lg>
+               <l>Ther'es never a Lord of Mannor or of Town</l>
+               <l>by ſtrand or by land, by hill or by dale,</l>
+               <l>But think it a franchiſe and flower of the Crown</l>
+               <l>to hold the aſſiſe of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And though there lies writs from the Court Para<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>to ſtay the proceeding of the Court Paravail,</l>
+               <l>Law favours it ſo, you may come you may go,</l>
+               <l>there lies no prohibition to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>They talk much of ſtate, both early and late,</l>
+               <l>but if Gaſcoigne and Spain their wine ſhould but fail,</l>
+               <l>No remedy then, with us Engliſhmen,</l>
+               <l>but the ſtate it muſt ſtand by a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>And they that ſit by it, are good men and quiet,</l>
+               <l>no dangerous plotters in the common-weale,</l>
+               <l>Of treaſon or murder for they never go further</l>
+               <l>then to call for and pay for a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>To the praiſe of <hi>Cambivius</hi> that good Brittiſh King</l>
+               <l>that deviſed for his nation (by the Welſhmens tale)</l>
+               <l>Seventeen hundred years before Chriſt did ſpring</l>
+               <l>the happy invention of a pot of good ale:</l>
+            </lg>
+            <lg>
+               <l>But he was a Paynim and ale was then rife,</l>
+               <l>yet after Chriſt came and bid us all hail;</l>
+               <l>St David tid never trink Peere in her life</l>
+               <l>but all Cwwrwwhibley a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The North they will praiſe and praiſe it with paſſion</l>
+               <l>where every River gives name to a Da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</l>
+               <l>There are yet men living that are of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old faſhion,</l>
+               <l>no Nectar they know but a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>The <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> were at <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>ſo high was the skill and ſo kept underſeale;</l>
+               <l>The Picts were undone, ſlain each mothers ſon</l>
+               <l>for not teaching the Scots to make Hether-ale.</l>
+            </lg>
+            <lg>
+               <l>But bither or thither it skills not much whether,</l>
+               <l>for drink muſt be had, men live not by keale,</l>
+               <l>Nor by Haverhannocks, nor by Haverjannock<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</l>
+               <l>the thing the Scots love is a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Now if you will ſay it I will not deny it,</l>
+               <l>that many a man it brings to his bale;</l>
+               <l>Yet what fairer end, can one wiſh to his friend</l>
+               <l>then to die by the dart of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Yet let not the innocent bear any blame,</l>
+               <l>it is their own doing to break o're the pale,</l>
+               <l>And neither the malt, nor the good wife in fault,</l>
+               <l>if any be potted with a pot of good ale,</l>
+            </lg>
+            <lg>
+               <l>They tell of whom it kills, but ſay not a <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>How many a man liveth both found an<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Though he drink no beer any day in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>by the Radical humour of a pot of goo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>But to ſpeak of killing that am I not willing,</l>
+               <l>for that in a manner were but to rail;</l>
+               <l>But Beer hath its name cauſe it brings to the beir,</l>
+               <l>therefore well fare ſay I to a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Too many I wis, with their death proved this,</l>
+               <l>And therefore if ancient records do not fail,</l>
+               <l>He that firſt brew'd the hop was rewarded with a rope</l>
+               <l>and found his beer far more bitter then ale.</l>
+            </lg>
+            <lg>
+               <l>O Ale! <hi>ah alendo,</hi> thou liquor of life,</l>
+               <l>that I had but a mouth as big as a Whale;</l>
+               <l>For mine is too little to touch the leaſt tittle</l>
+               <l>that belongs to the praiſe of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>Thus I trow ſome Vertues I have marked you out,</l>
+               <l>and never a vice in all this long trayle;</l>
+               <l>But that after the pot there cometh a ſhot,</l>
+               <l>and that's th' onely blot of a pot of good ale.</l>
+            </lg>
+            <lg>
+               <l>With that my friend ſaid that blot will I beare,</l>
+               <l>you have done very well it is time to ſtrike ſale;</l>
+               <l>Wee'l have ſix pots more, though I die on the ſcore,</l>
+               <l>to make all this good of a pot of good ale.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed <hi>by</hi> M. I. <hi>for</hi> F. Coles <hi>at the Lamb in the</hi> Old-Baily, 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
